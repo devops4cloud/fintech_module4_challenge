@@ -3,7 +3,18 @@
 
 ## Analysis of portfolio of four big hedge funds and S&P 500 companies
 
-Hedge Funds specialize in pooling investments and making the most optimum investment returns to their original investors. Equiped with sharpest minds, sophisticated technology, and widespread networks, hegde funds are experts in making sound investment for the richest of riches. However, the market benchmark, represented by S&P 500, is also very tough to beat. In 2007, Warren Buffet, the oracle of Omaha, managed to beat an actively managed fund by investing in a low cost S&P 500 fund. (Perry, 2007) 
+Hedge Funds specialize in pooling investments and making the most optimum investment returns to their original investors. Equiped with sharpest minds, sophisticated technology, and widespread networks, hegde funds are experts in making sound investment for the richest of riches. However, the market benchmark, represented by S&P 500, is also a very competitive index fund that has performed really well over the years.
+
+This application levareages many different quantative analysis tools and functions to evauluate the performance of the funds.
+ - Mean
+ - Daily returns
+ - Cumulative returns
+ - Standard deviation
+ - Sharpe ratio
+ - Covariance
+ - Beta scores
+ - Rolling averages
+
 
 
 ## Technologies
